@@ -1,0 +1,9 @@
+name: Loader
+version: '${version}'
+main: com.codenamemc.loader.Main
+api-version: '1.20'
+folia-supported: true
+commands:
+  shop:
+    description: open shop
+    usage: /<command>
