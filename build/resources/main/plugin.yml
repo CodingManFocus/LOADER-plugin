@@ -6,4 +6,7 @@ folia-supported: true
 commands:
   shop:
     description: open shop
-    usage: /<command>
+  gotohome:
+    description: go to home
+  loadertutorial:
+    description: listen loader tutorial
